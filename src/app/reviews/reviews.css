@@ -1,0 +1,44 @@
+.reviews-caixa-maior{
+    display: flex;
+    justify-self: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    width: 1320px;
+    height: 610.84px;
+}
+.reviews-caixa-menor{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 630px;
+    height: 405.84px;
+}
+.review-titulo{
+    font-size: 29.53px;
+    font-weight: bold;
+    color: #05073C;
+}
+.review-avaliacao{
+    font-size: 17.58px;
+    color: #EB662B;
+    font-weight: 500;
+}
+.review-texto{
+    font-size: 19.53px;
+    color: #05073C;
+    font-weight: 400;
+    text-align: center;
+    width: 604.59px;
+}
+.nome-review{
+    font-size: 15.75px;
+    color: #05073C;
+    font-weight: 500;
+}
+.tipo-review{
+    color: #05073C;
+    font-size: 14.3px;
+}
+

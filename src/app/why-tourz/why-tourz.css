@@ -1,0 +1,29 @@
+.section-center{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    justify-content: center;
+}
+.why-tourz{
+    height: 296.38px;
+    width: 1320px;
+}
+.tourz-caixas{
+    display: flex;
+    justify-content: space-around;
+}
+.caixas-tourz-titulo{
+    color: #05073C;
+    font-size: 17.72px;
+    padding-bottom: 10px;
+}
+.caixas-tourz-texto{
+    font-size: 14.65px;
+    color: #05073C;
+}
+.imagem-why-tourz{
+    padding-bottom: 30px;
+}
+.tourz-conjuntos{
+    width: 255px;
+}

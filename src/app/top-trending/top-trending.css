@@ -1,0 +1,24 @@
+.top-trending-caixa-maior{
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+    background-color: #F5F5F5;
+    width: 1530px;
+    height: 767.31px;
+    border-radius: 12px;
+    margin-top: 140px;
+}
+.top-trending-caixa-menor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}
+.top-trending-titulo{
+    padding-left: 120px;
+    font-size: 29.41px;
+    font-weight: bold;
+    color: #05073C;
+}

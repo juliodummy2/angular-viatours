@@ -1,0 +1,80 @@
+.section-down-de-novo{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    justify-content: space-around;
+    width: 1320px;
+    height: 529.98px;
+}
+.card-img1{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 409.98px;
+    height: 299.98px;
+    position: relative;
+}
+.caixa-trips{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 62.17px;
+    height: 36px;
+    border-radius: 200px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.caixa-trips p{
+    color: #05073C;
+    font-weight: 500;
+    font-size: 13.56px;
+}
+.texto-superior{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: #05073C;
+    font-size: 13.60px;
+}
+.linha{
+    background-color: #E7E6E6;
+    width: 1px;
+    height: 20px;
+}
+.tudo-junto{
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+    gap: 10px;
+}
+.texto-inferior{
+    width: 366.92px;
+    height: 51px;
+    color: #05073C;
+    font-size: 17.3px;
+    font-weight: 400;
+}
+.card-img2{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 409.98px;
+    height: 299.98px;
+    position: relative;
+}
+.card-img3{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 409.98px;
+    height: 299.98px;
+    position: relative;
+}
+.caixa-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

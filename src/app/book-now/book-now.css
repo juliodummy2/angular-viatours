@@ -1,0 +1,52 @@
+.book-now-texto-maior{
+    font-size: 40px;
+    color: #05073C;
+    font-weight: bold;
+}
+.book-now-texto-menor{
+    padding-top: 10px;
+    font-size: 14.77px;
+    color: #05073C;
+}
+.desconto{
+    font-size: 40px;
+    color: #EB662B;
+    font-weight: bold;
+}
+.book-now-caixa{
+    padding-left: 180px;
+    width: 366.14px;
+    height: 156px;
+}
+.book-now-btn{
+    background-color: #EB662B;
+    font-size: 14.41px;
+    color: white;
+    width: 167.86px;
+    height: 62px;
+    border: transparent;
+    border-radius: 12px;
+    transition: all 0.1s ease-in-out;
+}
+.book-now-btn:hover{
+    transform: scale(120%);
+    background-color: #ad3f10;
+}
+.book-now-btn-caixa{
+    padding-top: 30px;
+}
+.book-now{
+    padding-right: 25px;
+    
+}
+.book-now-caixa-maior{
+    background-image: url("./assets/img/banner-grandaum.png");
+    background-repeat: no-repeat;
+    padding-top: 190px;
+    border-radius: 12px;
+    margin-top: 140px;
+    display: flex;
+    justify-self: center;
+    width: 1300px;
+    height: 306.12px;
+}

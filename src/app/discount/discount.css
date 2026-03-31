@@ -1,0 +1,53 @@
+.email{
+    background-repeat: no-repeat;
+    display: flex;
+    justify-self: center;
+    justify-content: space-around;
+    width: 1530px;
+    height: 514px;
+    padding-top: 14px;
+}
+.inserir-email input[type="text"] {
+    box-shadow: 0 0 0;
+    border: 0 none;
+    border-radius: 12px;
+    width: 350px;
+    height: 60px;
+    font-size: 14.77px;
+    padding-left: 20px;
+}
+.btn-send{
+    border: transparent;
+    font-size: 14.65px;
+    color: #4A43C4;
+    font-weight: 400;
+    border-radius: 12px;
+    background-color: white;
+    width: 107.88px;
+    height: 60px;
+}
+.inserir-enviar{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.email-titulo{
+    font-size: 39.53px;
+    font-weight: bold;
+    color: white;
+    width: 365.53px;
+    height: 104px;
+}
+.email-texto{
+    font-size: 14.53px;
+    color: white;
+    width: 313.83px;
+    height: 48.12px;
+}
+
+.caixa-direita{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
