@@ -1,0 +1,55 @@
+.footer-background{
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    width: 1800px;
+    height: 655.13px;
+}
+.speak{
+    font-size: 19.69px;
+    color: #05073C;
+    font-weight: 400;
+}
+.footer-highlight{
+    color: #EB662B;
+}
+.footer-texto-maior{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #969595;
+    width: 1290px;
+    height: 185.13px;
+    background-color: aqua;
+    align-items: center;
+}
+.footer-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1320px;
+    height: 655.13px;
+    background-color: aquamarine;
+    gap: 10px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 356.62px;
+}
+.footer-texto-menor{
+    display: flex;
+    justify-content: space-around;
+}
+.company-footer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 356.62px;
+}
+.suporte-footer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 356.62px;
+}
