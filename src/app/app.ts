@@ -14,7 +14,8 @@ import { Footer } from "./footer/footer";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Menu, WhyTourz, Banner, Destinations, PopularTours, BookNow, TopTrending, Reviews, Discount, Articles, Footer], 
+  imports: [RouterOutlet, Menu, WhyTourz, Banner, Destinations, PopularTours, BookNow, TopTrending, Reviews, Discount, Articles,
+  Footer], 
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
